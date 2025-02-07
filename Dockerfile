@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome-debug:3.4.0
+FROM selenium/standalone-chrome-debug:latest
 
 USER root
 
